@@ -7,7 +7,7 @@ This research project focuses on improving algorithmic trading systems used in t
 For the purpose of this project, a fictional scenario is presented where I, as the financial advisor at a top-tier financial advisory firm, am engaged in intense competition to manage and automate asset trading within a highly dynamic environment. The firm experienced substantial profits in recent years through the utilization of computer algorithms, facilitating faster buying and selling compared to human traders and establishing an early competitive edge. However, there is a recognition that manually programmed systems have limitations in adapting to new data. Consequently, I plan to enhance the existing algorithmic trading systems to overcome these constraints and maintain the firm's competitive advantage. This involves strategically integrating machine learning algorithms to augment existing trading signals, ensuring adaptability to new data and sustained profitability in the face of evolving market conditions.
 
 ## Methodology:
-NOTE: All findings are documented in a separate README for organizational purposes and convenience.md located in the repository files. Please refer to the methodology findings during each step of the code creation and the PNG images. 
+NOTE: All findings are documented in a separate README.md for organizational purposes and convenience in the repository files. Please refer to the separate README.md with the commit message Evaluation Report to review the methodology findings during each step of the code creation and the PNG images. 
 - #### Baseline Performance:
   - Utilized SKLearn's SVM classifier (SVC) to fit training data.
   - Review the classification report for SVC model predictions.
