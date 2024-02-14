@@ -163,7 +163,7 @@ Upon analyzing the classification reports of the different algorithmic trading m
   - Similar to the previous configurations, with a balanced improvement in precision and recall, maintaining an accuracy of 55%.
 - ##### SMA Windows: 15, 200
   - Precision for positive outcomes increased, but recall for negative outcomes decreased, resulting in an accuracy of 55%.
-- ##### New Model: RandomForest Classifier
+#### New Model: RandomForest Classifier
   - The RandomForest Classifier introduced a new dynamic to the evaluation. With an accuracy of 49%, it exhibited a trade-off between precision and recall for positive and negative outcomes. The RandomForest model did not outperform the SVC models in terms of accuracy.
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### Overall Remarks
